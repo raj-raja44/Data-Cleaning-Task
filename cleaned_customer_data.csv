@@ -1,0 +1,5 @@
+id,year_birth,education,marital_status,income,dt_customer
+101,1985,phd,single,70000.0,2012-03-12
+102,1990,master,married,60000.0,2014-06-05
+103,1975,graduation,together,50000.0,2013-12-25
+104,2000,phd,single,60000.0,2015-01-01
